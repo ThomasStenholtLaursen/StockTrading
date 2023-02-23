@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTrading.Application", "StockTrading.Application\StockTrading.Application.csproj", "{71858D9B-5080-4B3D-A22B-10A7464D7673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTrading.Lib", "StockTrading.Lib\StockTrading.Lib.csproj", "{DA0BF57A-84D0-4B64-A287-4524C8A51A49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71858D9B-5080-4B3D-A22B-10A7464D7673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71858D9B-5080-4B3D-A22B-10A7464D7673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71858D9B-5080-4B3D-A22B-10A7464D7673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71858D9B-5080-4B3D-A22B-10A7464D7673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0BF57A-84D0-4B64-A287-4524C8A51A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0BF57A-84D0-4B64-A287-4524C8A51A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0BF57A-84D0-4B64-A287-4524C8A51A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0BF57A-84D0-4B64-A287-4524C8A51A49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {306A59FA-86FC-4272-B071-AB8DF693A791}
+	EndGlobalSection
+EndGlobal
